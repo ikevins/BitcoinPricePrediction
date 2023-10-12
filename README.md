@@ -1,1 +1,1 @@
-# BitcoinPricePrediction
+This is a machine learning project developed using numpy, pandas, matplotlib, and various machine learning alogrithms. The intention is to evaluate Bitcoin's price history in an effort to find a pattern or to aid in price predicition.
